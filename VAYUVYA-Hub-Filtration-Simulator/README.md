@@ -65,4 +65,4 @@ Use experimental measurements and engineering review before using outputs for de
 
 ## License
 
-No license has been specified yet. Add a license file if you want to explicitly permit reuse.
+MIT License
