@@ -63,6 +63,13 @@ Use experimental measurements and engineering review before using outputs for de
 
 - `vayuvya_hub_sim.py` — Streamlit app and simulation calculations
 
+## Demonstrations
+
+1. **Air Filtration Hub Simulator - Interactive Website:** [Launch the Simulator](https://vayuvya-app-filtration-simulator-rkxqf3ltyi7uasphhguqv9.streamlit.app/)
+
+2. **Air Filtration Hub Simulator - Working Demo:** [Watch the Demo on YouTube](https://www.youtube.com/watch?v=BVXrYB1VhK4)
+
+
 ## License
 
 MIT License
